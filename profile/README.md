@@ -30,7 +30,7 @@
 | :--- | :--- | :--- | :---: |
 | **Maniac** | Horror-мод для Fabric (1.21.10) с кастомными 3D-моделями и анимациями | Fabric API, GeckoLib, Blockbench | `In Dev` |
 | **OterID** | Централизованная система авторизации и единого аккаунта | Cloudflare Workers / D1 / OAuth2 | `In Dev` |
-| **Minecraft Infrastructure** | Серверные ядра, кастомные плагины и игровые механики | Kotlin, Java, Paper API | `Active` |
+| **Minecraft Infrastructure** | Серверные ядра, кастомные плагины и игровые механики | Kotlin, Java, Paper API | `In Dev` |
 
 ---
 
